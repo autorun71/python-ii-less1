@@ -1,4 +1,5 @@
 import numpy
+import mnist
 from keras.models import Sequential
 
 from keras.layers import Dense
